@@ -7,6 +7,6 @@ public class FilesModulesPage {
     addToFavoritesBtn
     removeFromFavoritesBtn
     favoritesSubModuleLink
-    
+
      */
 }
